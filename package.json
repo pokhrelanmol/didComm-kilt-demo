@@ -1,0 +1,22 @@
+{
+    "name": "kilt-did-sdk",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "anmol",
+    "license": "MIT",
+    "type": "module",
+    "dependencies": {
+        "@kiltprotocol/sdk-js": "^0.32.0",
+        "@veramo/core": "^5.2.0",
+        "@veramo/data-store": "^5.2.0",
+        "@veramo/did-comm": "^5.2.0",
+        "@veramo/did-provider-web": "^5.1.2",
+        "axios": "^1.4.0",
+        "didcomm": "^0.4.1",
+        "didcomm-node": "^0.4.1",
+        "dotenv": "^16.0.3"
+    },
+    "devDependencies": {
+        "@types/node": "^20.2.1"
+    }
+}
